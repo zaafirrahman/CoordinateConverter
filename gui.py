@@ -72,7 +72,7 @@ label_r.grid(column=0, row=0)
 entry_r = tkinter.Entry(root)
 entry_r.grid(column=1, row=0)
 
-label_t = tkinter.Label(root, text="TETA : ")
+label_t = tkinter.Label(root, text="THETA : ")
 label_t.grid(column=0, row=1)
 
 entry_t = tkinter.Entry(root)
